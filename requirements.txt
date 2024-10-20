@@ -1,0 +1,4 @@
+jupyter
+tiktoken
+python-dotenv
+openai
