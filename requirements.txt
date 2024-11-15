@@ -2,3 +2,10 @@ jupyter
 tiktoken
 python-dotenv
 openai
+ipykernel
+langchain
+langchain-community
+langchain-openai
+numexpr
+numpy
+requests
