@@ -1,4 +1,4 @@
-# prompting-101
+# llm-engineering-101
 
 Getting started with prompting and engineering with LLMs.
 
