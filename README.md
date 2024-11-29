@@ -16,3 +16,12 @@ If this is for an idea jam or hackathon, then you can continue:
 
 - Brainstorming applications (about 45-60 minutes)
 - Forming projects and teams (about 45-60 minutes)
+
+
+## See also 
+
+We maintain various other repos related to machine learning and artificial intelligence:
+
+- [`promptly`](https://github.com/equinor/promptly) for more on prompting and pitfalls in generative AI.
+- [`ml-pitfalls`](https://github.com/equinor/ml-pitfalls) for more on pitfalls in discriminative machine learning, another series of events.
+- [`ai-upskill-events`](https://github.com/equinor/ai-upskill-events) for a repo describing Equinor's company upskill events and materials.
