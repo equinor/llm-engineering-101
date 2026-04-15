@@ -1,5 +1,16 @@
 {
-  "name": "Prompting 101",
-  "image": "mcr.microsoft.com/devcontainers/python:3.11",
-  "postCreateCommand": "python -m pip install --user -r requirements.txt"
+    "image": "mcr.microsoft.com/devcontainers/python:3.13",
+
+    "features": {
+        "ghcr.io/jsburckhardt/devcontainer-features/uv:1": {}
+    },
+
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-toolsai.jupyter"
+            ]
+        }
+    }
 }
