@@ -12,5 +12,8 @@
                 "ms-toolsai.jupyter"
             ]
         }
-    }
+    },
+
+    "postCreateCommand": "uv sync"
+
 }
